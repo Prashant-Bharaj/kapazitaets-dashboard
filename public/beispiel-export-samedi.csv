@@ -1,0 +1,152 @@
+﻿Datum;Uhrzeit;Dauer (min);Patient;Geburtsjahr;Terminart;Kalender;Standort;Status
+05.10.2026;08:30;30;Ute Platzhalter (P-1021);1972;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+05.10.2026;09:00;30;Maria Probe (P-1006);1991;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+05.10.2026;10:30;30;Klaus Beispiel (P-1020);1986;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+05.10.2026;11:00;30;Julia Platzhalter (P-1030);1980;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+05.10.2026;14:30;30;Hans Schmidt-Test (P-1027);1970;Glaukom-Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+05.10.2026;16:00;60;Jürgen Demo (P-1025);1983;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+06.10.2026;08:00;30;Stefan Mustermann (P-1023);1950;Glaukom-Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+06.10.2026;08:30;30;Klaus Probe (P-1028);1970;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+06.10.2026;09:30;30;Hans Platzhalter (P-1033);1954;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;abgesagt
+06.10.2026;10:00;30;Monika Mustermann (P-1036);1935;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+06.10.2026;10:30;30;Karin Beispiel (P-1014);1944;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+06.10.2026;11:00;60;Frank Musterfrau (P-1022);1950;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+06.10.2026;11:30;30;Sabine Musterfrau (P-1024);1984;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+06.10.2026;12:00;30;Monika Beispiel (P-1019);1973;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+06.10.2026;14:00;30;Peter Testerin (P-1011);1958;Erstvorstellung;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+06.10.2026;14:30;60;Monika Demo (P-1018);1962;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+07.10.2026;08:00;60;Thomas Probe (P-1029);1982;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+07.10.2026;09:00;60;Monika Testerin (P-1016);1974;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+07.10.2026;10:00;30;Maria Testerin (P-1005);1980;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+07.10.2026;11:00;30;Stefan Testerin (P-1008);1967;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+07.10.2026;12:00;30;Michael Platzhalter (P-1013);1938;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+07.10.2026;13:00;60;Julia Probe (P-1004);1942;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+07.10.2026;14:00;60;Peter Demo (P-1017);1978;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+07.10.2026;14:30;30;Hans Demo (P-1012);1951;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+07.10.2026;15:30;30;Julia Testerin (P-1034);1935;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+07.10.2026;16:30;30;Karin Probe (P-1001);1954;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+08.10.2026;08:30;30;Hans Mustermann (P-1010);1937;Glaukom-Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+08.10.2026;10:00;30;Julia Demo (P-1007);1987;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+08.10.2026;11:30;30;Ute Demo (P-1031);1954;Glaukom-Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+08.10.2026;13:00;30;Sabine Musterfrau (P-1026);1947;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;abgesagt
+08.10.2026;16:00;30;Jürgen Schmidt-Test (P-1009);1972;Glaukom-Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+09.10.2026;08:00;60;Jürgen Testerin (P-1035);1982;Katarakt-OP;OP-Saal 1;Standort Mitte;abgesagt
+09.10.2026;08:30;30;Sabine Schmidt-Test (P-1003);1975;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;abgesagt
+09.10.2026;09:30;30;Monika Demo (P-1015);1989;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+09.10.2026;11:30;60;Jürgen Demo (P-1000);1968;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+09.10.2026;14:30;30;Petra Beispiel (P-1002);1943;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+09.10.2026;15:30;30;Klaus Platzhalter (P-1032);1977;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+12.10.2026;08:30;30;Peter Musterfrau (P-1064);1943;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+12.10.2026;10:00;30;Petra Beispiel (P-1040);1965;Erstvorstellung;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+12.10.2026;11:00;30;Thomas Musterfrau (P-1039);1964;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+12.10.2026;16:00;30;Karin Mustermann (P-1038);1978;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+13.10.2026;09:30;60;Stefan Testerin (P-1053);1969;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+13.10.2026;10:30;30;Frank Testerin (P-1056);1950;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+13.10.2026;11:30;30;Maria Platzhalter (P-1037);1971;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+13.10.2026;12:00;30;Michael Testerin (P-1046);1977;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+13.10.2026;12:30;30;Stefan Platzhalter (P-1042);1941;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+13.10.2026;14:00;30;Ute Probe (P-1047);1940;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+13.10.2026;14:30;30;Monika Platzhalter (P-1061);1947;Erstvorstellung;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+13.10.2026;15:30;30;Karin Testerin (P-1063);1987;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+13.10.2026;16:00;60;Hans Probe (P-1059);1951;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+14.10.2026;08:30;60;Maria Beispiel (P-1044);1937;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+14.10.2026;09:00;30;Jürgen Testerin (P-1066);1940;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+14.10.2026;10:00;30;Anna Beispiel (P-1065);1950;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+14.10.2026;14:00;30;Karin Demo (P-1045);1946;Glaukom-Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+15.10.2026;11:00;30;Petra Demo (P-1049);1957;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+15.10.2026;12:00;30;Klaus Platzhalter (P-1050);1941;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+15.10.2026;12:30;60;Karin Probe (P-1043);1969;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+15.10.2026;13:30;30;Klaus Probe (P-1057);1965;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+15.10.2026;15:00;30;Peter Beispiel (P-1054);1989;Glaukom-Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+15.10.2026;16:30;30;Klaus Testerin (P-1041);1975;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+16.10.2026;08:00;30;Klaus Musterfrau (P-1058);1972;IVOM;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+16.10.2026;08:30;30;Hans Beispiel (P-1060);1970;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+16.10.2026;09:00;30;Jürgen Musterfrau (P-1062);1935;Gesichtsfeld;Diagnostik;Standort Mitte;abgesagt
+16.10.2026;09:30;30;Petra Beispiel (P-1052);1991;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+16.10.2026;12:30;30;Maria Musterfrau (P-1051);1993;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+16.10.2026;13:00;60;Anna Beispiel (P-1055);1986;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+16.10.2026;16:30;30;Monika Schmidt-Test (P-1048);1977;Gesichtsfeld;Diagnostik;Standort Mitte;abgesagt
+19.10.2026;10:30;30;Peter Schmidt-Test (P-1070);1978;Glaukom-Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+19.10.2026;11:00;30;Maria Platzhalter (P-1087);1940;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+19.10.2026;15:00;30;Julia Platzhalter (P-1075);1948;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+20.10.2026;08:00;60;Stefan Demo (P-1077);1951;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+20.10.2026;08:30;60;Ute Beispiel (P-1071);1990;Katarakt-OP;OP-Saal 1;Standort Mitte;abgesagt
+20.10.2026;10:30;30;Karin Probe (P-1083);1935;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+20.10.2026;11:30;30;Frank Beispiel (P-1078);1939;Nachsorge OP;OP-Saal 1;Standort Mitte;abgesagt
+20.10.2026;13:30;30;Hans Platzhalter (P-1082);1990;Erstvorstellung;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+20.10.2026;14:00;30;Petra Musterfrau (P-1067);1952;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+20.10.2026;16:00;30;Petra Beispiel (P-1088);1989;Erstvorstellung;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+21.10.2026;08:00;30;Hans Testerin (P-1081);1990;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+21.10.2026;08:30;30;Monika Demo (P-1074);1961;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+21.10.2026;15:30;30;Hans Beispiel (P-1076);1990;Erstvorstellung;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+22.10.2026;09:00;30;Frank Musterfrau (P-1090);1946;Erstvorstellung;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+22.10.2026;11:00;60;Ute Musterfrau (P-1084);1959;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+22.10.2026;14:00;30;Thomas Mustermann (P-1068);1948;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+22.10.2026;15:00;30;Jürgen Musterfrau (P-1086);1967;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+23.10.2026;09:00;30;Petra Schmidt-Test (P-1085);1947;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+23.10.2026;10:30;30;Karin Probe (P-1079);1961;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+23.10.2026;11:00;30;Klaus Beispiel (P-1080);1939;Erstvorstellung;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+23.10.2026;14:30;30;Maria Platzhalter (P-1089);1949;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+23.10.2026;15:00;30;Michael Testerin (P-1069);1941;Glaukom-Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+23.10.2026;15:30;30;Karin Mustermann (P-1072);1946;Glaukom-Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+23.10.2026;16:30;60;Hans Musterfrau (P-1073);1967;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+26.10.2026;08:00;30;Maria Probe (P-1108);1945;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+26.10.2026;08:30;30;Thomas Probe (P-1132);1970;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+26.10.2026;11:00;30;Karin Demo (P-1109);1943;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+26.10.2026;11:30;30;Jürgen Mustermann (P-1114);1941;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+26.10.2026;12:30;60;Michael Demo (P-1103);1938;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+26.10.2026;13:00;30;Karin Platzhalter (P-1123);1937;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+26.10.2026;13:30;30;Monika Probe (P-1097);1949;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+26.10.2026;14:00;30;Jürgen Mustermann (P-1128);1948;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+26.10.2026;14:30;30;Julia Testerin (P-1127);1970;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+26.10.2026;16:00;30;Monika Mustermann (P-1115);1989;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+26.10.2026;16:30;30;Julia Musterfrau (P-1120);1979;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+27.10.2026;09:00;30;Sabine Musterfrau (P-1094);1944;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+27.10.2026;09:30;30;Monika Demo (P-1121);1985;IVOM;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+27.10.2026;12:00;30;Peter Schmidt-Test (P-1091);1950;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+27.10.2026;13:30;30;Stefan Demo (P-1107);1978;Glaukom-Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;abgesagt
+27.10.2026;14:00;30;Michael Musterfrau (P-1095);1950;Erstvorstellung;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+27.10.2026;15:30;30;Petra Musterfrau (P-1125);1994;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+27.10.2026;16:30;30;Maria Probe (P-1111);1970;IVOM;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+28.10.2026;09:30;30;Peter Testerin (P-1104);1990;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+28.10.2026;10:00;60;Anna Demo (P-1129);1946;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+28.10.2026;10:30;30;Anna Musterfrau (P-1119);1967;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+28.10.2026;11:00;60;Michael Mustermann (P-1122);1988;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+28.10.2026;13:00;30;Jürgen Demo (P-1130);1989;IVOM;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+28.10.2026;13:30;30;Petra Testerin (P-1093);1970;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+28.10.2026;14:30;30;Thomas Probe (P-1101);1990;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+28.10.2026;15:00;30;Stefan Mustermann (P-1133);1980;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+28.10.2026;16:00;30;Julia Platzhalter (P-1112);1972;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+29.10.2026;08:00;30;Karin Probe (P-1096);1980;Nachsorge OP;OP-Saal 1;Standort Mitte;abgesagt
+29.10.2026;09:30;30;Julia Schmidt-Test (P-1098);1945;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+29.10.2026;10:00;30;Michael Mustermann (P-1126);1962;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+29.10.2026;11:00;60;Stefan Mustermann (P-1110);1945;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+29.10.2026;11:30;60;Thomas Testerin (P-1117);1962;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+29.10.2026;12:30;30;Klaus Testerin (P-1092);1938;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+29.10.2026;13:00;30;Monika Demo (P-1106);1992;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+29.10.2026;14:30;30;Peter Testerin (P-1118);1988;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+30.10.2026;08:00;30;Karin Mustermann (P-1134);1970;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+30.10.2026;08:30;30;Peter Mustermann (P-1100);1981;Gesichtsfeld;Diagnostik;Standort Mitte;abgesagt
+30.10.2026;10:00;30;Hans Demo (P-1102);1986;Glaukom-Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;abgesagt
+30.10.2026;11:00;30;Monika Musterfrau (P-1105);1981;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+30.10.2026;12:30;30;Julia Schmidt-Test (P-1131);1950;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+30.10.2026;13:30;30;Petra Testerin (P-1099);1939;Erstvorstellung;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+30.10.2026;14:00;30;Maria Testerin (P-1116);1989;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+30.10.2026;15:00;30;Thomas Platzhalter (P-1113);1946;Erstvorstellung;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+30.10.2026;16:00;30;Ute Probe (P-1124);1973;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+02.11.2026;10:00;30;Frank Mustermann (P-1150);1946;Nachsorge OP;OP-Saal 1;Standort Mitte;abgesagt
+02.11.2026;13:00;60;Stefan Platzhalter (P-1143);1944;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+02.11.2026;15:30;30;Maria Probe (P-1135);1959;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+03.11.2026;08:00;30;Jürgen Demo (P-1146);1937;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+03.11.2026;09:30;30;Stefan Demo (P-1141);1987;Erstvorstellung;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+03.11.2026;10:00;30;Anna Probe (P-1138);1942;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+03.11.2026;10:30;30;Peter Testerin (P-1140);1935;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+03.11.2026;13:30;60;Frank Platzhalter (P-1148);1967;Katarakt-OP;OP-Saal 1;Standort Mitte;gebucht
+03.11.2026;14:30;30;Monika Schmidt-Test (P-1145);1939;Kontrolle;Sprechstunde Dr. Muster;Standort Mitte;abgesagt
+03.11.2026;15:30;30;Stefan Demo (P-1139);1949;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
+04.11.2026;11:00;30;Klaus Mustermann (P-1144);1987;OCT / Makula;Diagnostik;Standort Mitte;gebucht
+04.11.2026;15:30;30;Jürgen Probe (P-1137);1955;Gesichtsfeld;Diagnostik;Standort Mitte;gebucht
+05.11.2026;16:30;30;Sabine Musterfrau (P-1147);1941;Erstvorstellung;Sprechstunde Dr. Muster;Standort Mitte;gebucht
+06.11.2026;08:30;30;Michael Musterfrau (P-1142);1986;Kontrolle;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+06.11.2026;12:00;30;Monika Probe (P-1149);1945;IVOM;Sprechstunde Dr. Beispiel;Standort Mitte;gebucht
+06.11.2026;16:30;30;Maria Schmidt-Test (P-1136);1967;Nachsorge OP;OP-Saal 1;Standort Mitte;gebucht
